@@ -2,8 +2,8 @@
 ### 1. File & Folder/Directory Management
 #### *Listing Files & Folders:*
 ```
-● ls                : list files and folders 
-● ls -la            : list all files and folders (including hidden ones)
+● ls     : list files and folders 
+● ls -la : list all files and folders (including hidden ones)
 ```
 #### *Navigating Directories:*
 ```
@@ -18,3 +18,9 @@
 ```
 ● touch file_name   : creates a new file
 ● mkdir folder_name : creates a new directory(folder)
+```
+#### *Copying & Moving*
+```
+● cp file_name destination_path      : 
+● cp -r folder_name destination_path : 
+● mv *file/folder*_name 
