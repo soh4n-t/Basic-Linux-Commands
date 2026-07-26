@@ -1,6 +1,6 @@
 ## Basic-Linux-Commands
 ### 1. File & Folder/Directory Management
-#### *Listing Files & Directories:*
+#### *Listing Files & Folders:*
 ```
 ● ls                : list files and folders 
 ● ls -la            : list all files and folders (including hidden ones)
@@ -16,4 +16,5 @@
 ```
 #### *Creating Files & Directories*
 ```
-● 
+● touch file_name   : creates a new file
+● mkdir folder_name : creates a new directory(folder)
