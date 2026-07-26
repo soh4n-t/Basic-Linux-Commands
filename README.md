@@ -1,9 +1,9 @@
 ## Basic-Linux-Commands
-### 1. File & Directory Management
+### 1. File & Folder/Directory Management
 #### *Listing Files & Directories:*
 ```
-● ls                : list files and directories 
-● ls -la            : list all files (including hidden ones)
+● ls                : list files and folders 
+● ls -la            : list all files and folders (including hidden ones)
 ```
 #### *Navigating Directories:*
 ```
@@ -13,6 +13,7 @@
 ● cd -              : go to previous directory
 ● cd /              : go to root directory
 ● pwd               : shows your current path (directory)
-
 ```
-
+#### *Creating Files & Directories*
+```
+● 
