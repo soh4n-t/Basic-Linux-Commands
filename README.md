@@ -2,8 +2,8 @@
 ### 1. File & Folder/Directory Management
 #### *Listing Files & Folders:*
 ```
-● ls     : list files and folders 
-● ls -la : list all files and folders (including hidden ones)
+● ls                : list files and folders 
+● ls -la            : list all files and folders (including hidden ones)
 ```
 #### *Navigating Directories:*
 ```
