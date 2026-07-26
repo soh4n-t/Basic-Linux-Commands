@@ -21,6 +21,7 @@
 ```
 #### *Copying & Moving*
 ```
-● cp file_name destination_path      : 
-● cp -r folder_name destination_path : 
-● mv *file/folder*_name 
+● cp file_name destination(path/name) : copy / rename a file
+● cp -r folder_name destination       : copy a folder 
+● mv *file/folder*_name destination   : move / rename a file / folder
+```
