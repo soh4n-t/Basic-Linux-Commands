@@ -12,7 +12,7 @@
 ● cd ~              : go to home directory
 ● cd -              : go to previous directory
 ● cd /              : go to root directory
-● pwd               : shows your current path (directory)
+● pwd               : shows your current location (path/directory)
 ```
 #### *Creating Files & Directories*
 ```
@@ -21,7 +21,7 @@
 ```
 #### *Copying & Moving*
 ```
-● cp file_name destination(path/name) : copy / rename a file
-● cp -r folder_name destination       : copy a folder 
-● mv *file/folder*_name destination   : move / rename a file / folder
+● cp file_name destination            : copies a file to another location (also used for renaming a file)
+● cp -r folder_name destination       : copies a folder and all its contents 
+● mv *file/folder*_name destination   : move or rename a file/folder
 ```
