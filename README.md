@@ -21,20 +21,21 @@
 ```
 #### *Copying & Moving*
 ```
-● cp file_name destination            : copies a file to the desired location (also for renaming a file)
-● cp -r folder_name destination       : copies a folder and all its contents 
-● mv *file/folder*_name destination   : moves a file/folder to the desired location
+● cp file_name destination          : copies a file to the desired location (also for renaming a file)
+● cp -r folder_name destination     : copies a folder and all its contents 
+● mv *file/folder*_name destination : moves a file/folder to the desired location
 ```
 #### *Removing Files & Folders*
 ```
-● rm file_name                        : remove/delete a file
-● rm -r folder_name                   : delete a folder and its contents 
-
-
-
-
-
-
-
-
-
+● rm file_name                      : remove/delete a file
+● rm -r folder_name                 : delete a folder and its contents 
+```
+### 2. File Viewing & Editing
+#### *Viewing & Reading Files:* 
+```
+● cat filename                      : display the contents of a file
+● less filename                     : view a large file one page at a time by scrolling through (press q to quit)
+● head filename                     : display only the first 10 lines of a file
+● tail filename                     : display only the last 10 lines of a file
+```
+#### *Editing Files*
