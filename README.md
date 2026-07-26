@@ -39,3 +39,13 @@
 ● tail filename                     : display only the last 10 lines of a file
 ```
 #### *Editing Files*
+```
+● nano file_name                    : open a simple, easy-to-use text editor in terminal (beginner-friendly)
+● vim file_name                     : open an advanced text editor in terminal
+```
+### 3. Permissions & Ownerships
+#### **
+```
+●
+●
+
