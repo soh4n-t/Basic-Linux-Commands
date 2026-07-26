@@ -1,4 +1,4 @@
 # Basic-Linux-Commands
-**1. Files, Folders & Directory Management:**
+##1. File & Directory Management:**
 
-ls - lists files and folders
+ls - lists files and directories
