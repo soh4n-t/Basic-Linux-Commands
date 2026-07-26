@@ -1,3 +1,3 @@
 # Basic-Linux-Commands
 ## 1. File & Directory Management:
-### ls - lists files and directories
+* ls - lists files and directories
