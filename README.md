@@ -12,7 +12,7 @@
 ● cd ~              : go to home directory
 ● cd -              : go to previous directory
 ● cd /              : go to root directory
-● pwd               : shows your current path
+● pwd               : shows your current path (directory)
 
 ```
 
