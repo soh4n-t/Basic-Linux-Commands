@@ -21,7 +21,20 @@
 ```
 #### *Copying & Moving*
 ```
-● cp file_name destination            : copies a file to another location (also used for renaming a file)
+● cp file_name destination            : copies a file to the desired location (also for renaming a file)
 ● cp -r folder_name destination       : copies a folder and all its contents 
-● mv *file/folder*_name destination   : move or rename a file/folder
+● mv *file/folder*_name destination   : moves a file/folder to the desired location
 ```
+#### *Removing Files & Folders*
+```
+● rm file_name                        : remove/delete a file
+● rm -r folder_name                   : delete a folder and its contents 
+
+
+
+
+
+
+
+
+
