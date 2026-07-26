@@ -2,7 +2,7 @@
 ### 1. File & Directory Management
 #### *Listing Files & Directories:*
 ```
-* **ls**          : list files and directories 
+* **ls**            : list files and directories 
 * ls -la            : list all files (including hidden ones)
 * cd directory_name : change directory
 * cd ..             : go back one directory
