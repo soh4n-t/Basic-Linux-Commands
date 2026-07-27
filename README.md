@@ -16,8 +16,10 @@
 ```
 #### *Creating Files & Directories*
 ```
-● touch file_name   : creates a new file
-● mkdir folder_name : creates a new directory(folder)
+● touch file_name                   : creates a new file
+● echo "Hello " > file_name.txt     : creates a file and writes the text Hello to it
+● echo "World" >> file_name.txt     : appends World to the file content
+● mkdir folder_name                 : creates a new directory(folder)
 ```
 #### *Copying & Moving*
 ```
