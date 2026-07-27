@@ -48,6 +48,9 @@
 ### 3. Permissions & Ownerships
 #### **
 ```
+● sudo                              : grant administrative or root permissions
+● chmod 777 file_name.txt           : grant full access(read, write, execute) for owner, group & others
+● chmod +x file_name.txt            : 
 ●
 ●
-
+```
