@@ -39,6 +39,7 @@
 ● less filename                     : view a large file one page at a time by scrolling through (press q to quit)
 ● head filename                     : display only the first 10 lines of a file
 ● tail filename                     : display only the last 10 lines of a file
+● wc file_name                      : display count of lines, words & characters in the file
 ```
 #### *Editing Files*
 ```
@@ -64,3 +65,9 @@
 ● find / -name file_name.txt        : search for the file in the root directory and its subfolders
 ● find . -name file_name.txt        : search for the file in the current directory and its subfolders
 ```
+### 5. File Information
+```
+● file file_name                    : show file type
+● stat file_name                    : shows detailed file information
+```
+### 6. File
