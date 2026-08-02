@@ -69,5 +69,10 @@
 ```
 ● file file_name                    : show file type
 ● stat file_name                    : shows detailed file information
+● strings file_name                 : displays all human-readable text hidden inside the file
 ```
-### 6. File
+### 6. File Downloading
+```
+● wget url                          : downloads files directly from the internet to the system
+● curl url                          : prints the downloaded content directly to the terminal
+```
