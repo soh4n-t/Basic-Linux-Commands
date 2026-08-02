@@ -71,13 +71,19 @@
 ● stat file_name                    : shows detailed file information
 ● strings file_name                 : displays all human-readable text hidden inside the file
 ```
-
 ### 6. File Downloading
 ```
 ● wget url                          : downloads files directly from the internet to the system
 ● curl url                          : prints the downloaded content directly to the terminal
 ```
-### 7. Process Management
+### 7. System Information
+```
+● hostnamectl                       : identify which server or machine the system is connected to
+● uname -a                          : prints all the system information(kernel version, build version, hardware type, OS type, etc.)
+● df -h                             : displays disk space usage
+● free -h                           : displays total, used, available RAM
+```
+### 8. Process Management
 ```
 ● ps                                : displays processes running in the current terminal
 ● ps aux                            : displays all processes running in the system
@@ -86,11 +92,23 @@
 ● kill pid                          : kill a specific process (provide the pid number)
 ● killall program                   : close all running windows/processes related to the program (provide the specific program)
 ```
-### 8. Network Management
+### 9. Network Management
 ```
 ● ping ip                           : check network connectivity for the provided ip address
 ● traceroute ip                     : shows the full path packets cross to reach the destination
 ● ip a                              : displays all network interfaces with their assigned IP addresses, MAC addresses, and connection status
 ● dig/nslookup domain_name          : resolve domain names to ip(s)
-● netstat/ss -tuln                  : show active network connections and ports
+● ss -tuln                          : show active network connections and ports
+```
+### 10. User Management
+```
+● 
+```
+### 11. Package Management
+```
+● 
+```
+### 12. Other Must-Know Commands
+```
+● 
 ```
