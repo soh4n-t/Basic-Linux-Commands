@@ -45,8 +45,7 @@
 ● nano file_name                    : open a simple, easy-to-use text editor in terminal (beginner-friendly)
 ● vim file_name                     : open an advanced text editor in terminal
 ```
-### 3. Permissions & Ownerships
-#### **
+### 3. Permissions & Ownerships 
 ```
 ● sudo                              : grant administrative or root permissions
 ● chmod 777 file_name.txt           : grant full access(read, write, execute) for owner, group & others
