@@ -71,8 +71,18 @@
 ● stat file_name                    : shows detailed file information
 ● strings file_name                 : displays all human-readable text hidden inside the file
 ```
+
 ### 6. File Downloading
 ```
 ● wget url                          : downloads files directly from the internet to the system
 ● curl url                          : prints the downloaded content directly to the terminal
+```
+### 7. Process Management
+```
+● ps                                : displays processes running in the current terminal
+● ps aux                            : displays all processes running in the system
+● top                               : opens task manager (displays running processes, CPU/RAM usage)
+● htop                              : replacement for top (user-friendly)
+● kill pid                          : kill a specific process (provide the pid number)
+● killall program                   : close all running windows/processes related to the program (provide the specific program)
 ```
