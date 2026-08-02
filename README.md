@@ -86,3 +86,11 @@
 ● kill pid                          : kill a specific process (provide the pid number)
 ● killall program                   : close all running windows/processes related to the program (provide the specific program)
 ```
+### 8. Network Management
+```
+● ping ip                           : check network connectivity for the provided ip address
+● traceroute ip                     : shows the full path packets cross to reach the destination
+● ip a                              : displays all network interfaces with their assigned IP addresses, MAC addresses, and connection status
+● dig/nslookup domain_name          : resolve domain names to ip(s)
+● netstat/ss -tuln                  : show active network connections and ports
+```
