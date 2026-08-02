@@ -48,7 +48,7 @@
 ### 3. File Permissions & Ownerships 
 ```
 ● sudo                              : grant administrative or root permissions
-● chmod 777 file_name.txt           : grant full access(read, write, execute) of the file for owner, group & others (644 is recommended)
+● chmod 777 file_name.txt           : grant full access(read, write, execute) of the file for owner, group & others (chmod 644 is recommended)
 ● chmod +x file_name.txt            : grant execute permission for owner, group & others
 ● chmod u+x file_name.txt           : grant execute permission for owner
 ● chmod g+x file_name.txt           : grant execute permission for group
