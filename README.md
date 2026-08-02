@@ -45,14 +45,22 @@
 ● nano file_name                    : open a simple, easy-to-use text editor in terminal (beginner-friendly)
 ● vim file_name                     : open an advanced text editor in terminal
 ```
-### 3. Permissions & Ownerships 
+### 3. File Permissions & Ownerships 
 ```
 ● sudo                              : grant administrative or root permissions
-● chmod 777 file_name.txt           : grant full access(read, write, execute) for owner, group & others
+● chmod 777 file_name.txt           : grant full access(read, write, execute) of the file for owner, group & others (644 is recommended)
 ● chmod +x file_name.txt            : grant execute permission for owner, group & others
 ● chmod u+x file_name.txt           : grant execute permission for owner
 ● chmod g+x file_name.txt           : grant execute permission for group
 ● chmod o+x file_name.txt           : grant execute permission for others
 ● chown soh4n file_name.txt         : change owner of the file
 ```
-###
+### 4. File Searching
+```
+● grep "word" file_name             : search for a word in a file and displays the line
+● grep -i "word" file_name          : ignore whether the word is capitalized or lowercase
+● locate file_name.txt              : search for the file (fast)
+● find ~ -name file_name.txt        : search for the file in the home directory and its subfolders
+● find / -name file_name.txt        : search for the file in the root directory and its subfolders
+● find . -name file_name.txt        : search for the file in the current directory and its subfolders
+```
