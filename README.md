@@ -49,11 +49,11 @@
 ```
 ● sudo                              : grant administrative or root permissions
 ● chmod 777 file_name.txt           : grant full access(read, write, execute) of the file for owner, group & others (chmod 644 is recommended)
-● chmod +x file_name.txt            : grant execute permission for owner, group & others
+● chmod +x file_name.txt            : makes a file executable
 ● chmod u+x file_name.txt           : grant execute permission for owner
 ● chmod g+x file_name.txt           : grant execute permission for group
 ● chmod o+x file_name.txt           : grant execute permission for others
-● chown soh4n file_name.txt         : change owner of the file
+● sudo chown username file_name.txt : change owner of the file
 ```
 ### 4. File Searching
 ```
