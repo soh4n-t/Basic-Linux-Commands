@@ -119,5 +119,12 @@
 ```
 ### 12. Other Must-Know Commands
 ```
-● 
+● clear                               : clear terminal
+● history                             : shows previously executed commands
+● man command                         : view the manual for the command
+● Tab                                 : for auto-completing commands, file names & directories
+● up / down arrow key                 : browse through previous commands
+● ctrl + C                            : stop the current running command
+● ctrl + D                            : exit the terminal
+● ctrl + L                            : clear the screen
 ```
