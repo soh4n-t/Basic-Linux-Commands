@@ -102,11 +102,21 @@
 ```
 ### 10. User Management
 ```
-● 
+● who                               : displays users currently logged into the system
+● whoami                            : displays the username of currently logged in user
+● sudo useradd username             : creates a new user account
+● sudo usermod -l new_name old_name : renames the user account
+● sudo userdel username             : deletes the user account
+● su username                       : switch user account
 ```
 ### 11. Package Management
 ```
-● 
+● sudo apt update
+● sudo apt upgrade
+● sudo apt search git
+● sudo apt show git
+● sudo apt install git
+● sudo apt remove git
 ```
 ### 12. Other Must-Know Commands
 ```
